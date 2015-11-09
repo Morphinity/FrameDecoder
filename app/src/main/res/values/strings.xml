@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">decodeFrame</string>
+
+    <string name="addMedia">Add Media</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
